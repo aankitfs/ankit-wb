@@ -80,7 +80,7 @@ $conn->close();
                   <i class="fas fa-times"></i>
               </button>
               <ul class="navbar-nav">
-                  <li class="nav-item"><a href="index.php" class="nav-link">Home</a></li>
+                  <li class="nav-item"><a href="index.html" class="nav-link">Home</a></li>
                   <li class="nav-item"><a href="gallery.php" class="nav-link">Gallery</a></li>
                   <li class="nav-item"><a href="blog.php" class="nav-link">Blog</a></li>
                   <li class="nav-item"><a href="about.php" class="nav-link">About</a></li>
